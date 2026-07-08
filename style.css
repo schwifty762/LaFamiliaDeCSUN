@@ -299,6 +299,7 @@ header .navbar {
 /* Gallery Section Styling*/
 .gallery-section {
     padding: 50px 0 100px;
+    background-color: var(--light-pink-color);
 }
 
 .gallery-section .gallery-list {
@@ -327,7 +328,7 @@ header .navbar {
 /* Contact us Section Styling*/
 .contact-section {
     padding: 50px 0 100px;
-    background: var(--light-pink-color);
+    background: var(--white-color);
 }
 
 .contact-section .section-content {
